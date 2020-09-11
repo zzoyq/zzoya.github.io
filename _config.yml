@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "default", "aqua", "contrast", "dark", "dirt", "neon", "air", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "aqua", "contrast", "dark", "mint", "neon", "air", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "SEO HOMEPAGE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "SEO JU HYEON"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
